@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Manu-Saini9
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Java language, Data structures, competitive programming,advanced data structures.
-- 💞️ I’m looking to collaborate on different real life projects.
-- 📫 How to reach me email4manusaini@gmail.com
+I'm a Computer Science graduate with a concentration in Artificial Intelligence, specializing in machine learning, deep learning, and algorithm design. I love building ML systems from scratch — not just calling APIs, but understanding what happens under the hood.
 
-<!---
-Manu-Saini9/Manu-Saini9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+BSc Computer Science (Honours) — AI Concentration, Brock University
+Currently looking for ML/AI engineering or data science roles
+I enjoy: semi-supervised learning, optimization algorithms, and neural network theory
+I build things from scratch — including CNNs with pure NumPy, no frameworks
